@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fetchPraktyka/static/css/main.095cebe2.chunk.css",
+    "main.js": "/fetchPraktyka/static/js/main.f97089ad.chunk.js",
+    "main.js.map": "/fetchPraktyka/static/js/main.f97089ad.chunk.js.map",
+    "runtime-main.js": "/fetchPraktyka/static/js/runtime-main.47899628.js",
+    "runtime-main.js.map": "/fetchPraktyka/static/js/runtime-main.47899628.js.map",
+    "static/js/2.ca6eab21.chunk.js": "/fetchPraktyka/static/js/2.ca6eab21.chunk.js",
+    "static/js/2.ca6eab21.chunk.js.map": "/fetchPraktyka/static/js/2.ca6eab21.chunk.js.map",
+    "index.html": "/fetchPraktyka/index.html",
+    "precache-manifest.ae78b84ae1b2b517ff8f8b97099b0d52.js": "/fetchPraktyka/precache-manifest.ae78b84ae1b2b517ff8f8b97099b0d52.js",
+    "service-worker.js": "/fetchPraktyka/service-worker.js",
+    "static/css/main.095cebe2.chunk.css.map": "/fetchPraktyka/static/css/main.095cebe2.chunk.css.map",
+    "static/js/2.ca6eab21.chunk.js.LICENSE.txt": "/fetchPraktyka/static/js/2.ca6eab21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47899628.js",
+    "static/js/2.ca6eab21.chunk.js",
+    "static/css/main.095cebe2.chunk.css",
+    "static/js/main.f97089ad.chunk.js"
+  ]
+}
