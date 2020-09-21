@@ -1,6 +1,13 @@
 import React from "react";
 
 const AddPerson = (props) => {
-  return <button onClick={props.onclick}>Dodaj osobę</button>;
+  return (
+    <button
+      style={{ margin: "50px", height: "60px", width: "120px" }}
+      onClick={props.onclick}
+    >
+      Dodaj osobę
+    </button>
+  );
 };
 export default AddPerson;
