@@ -1,10 +1,18 @@
 p {
   font-family: "Courier New", Courier, monospace;
+  color: #f1faee;
+}
+h1 {
+  color: #a8dadc;
 }
 div.border {
-  border-top: 2px solid black;
-  margin: 10px;
+  border: 2px solid black;
+  margin: 20px auto;
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
 }
 img {
-  padding: 10px;
+  padding: 2px;
+  border-radius: 50%;
 }
